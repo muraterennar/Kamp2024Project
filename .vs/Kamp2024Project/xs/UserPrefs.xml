@@ -1,4 +1,37 @@
 ﻿<Properties StartupConfiguration="{3F2B1423-F70E-4340-A34C-2826EEF7A52E}|Default">
-  <MonoDevelop.Ide.ItemProperties.Intro PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Intro PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
+    <Files>
+      <File FileName="Intro/DataAccess/Concreate/CourseDal.cs" />
+      <File FileName="Intro/Business/CourseManager.cs" />
+      <File FileName="Intro/Program.cs" Line="52" Column="55" />
+      <File FileName="Intro/Entities/BaseCustomer.cs" />
+      <File FileName="Intro/DataAccess/Concreate/EfCourseDal.cs" />
+      <File FileName=".gitignore" Line="7" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Kamp2024Project" expanded="True">
+            <Node name="Intro" expanded="True">
+              <Node name="Business" expanded="True" />
+              <Node name="DataAccess" expanded="True">
+                <Node name="Abstracts" expanded="True" />
+                <Node name="Concreate" expanded="True" />
+              </Node>
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name=".gitignore" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
