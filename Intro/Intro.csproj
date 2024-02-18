@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <None Remove="Business\" />
+      <None Remove="Entities\" />
+      <None Remove="DataAccess\" />
+      <None Remove="DataAccess\Abstracts\" />
+      <None Remove="DataAccess\Concreate\" />
+    </ItemGroup>
+    <ItemGroup>
+      <Folder Include="Business\" />
+      <Folder Include="Entities\" />
+      <Folder Include="DataAccess\" />
+      <Folder Include="DataAccess\Abstracts\" />
+      <Folder Include="DataAccess\Concreate\" />
+    </ItemGroup>
+</Project>

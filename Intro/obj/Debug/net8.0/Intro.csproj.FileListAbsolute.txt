@@ -1,0 +1,14 @@
+/Users/muraterennar/Projects/Kamp2024Project/Intro/bin/Debug/net8.0/Intro
+/Users/muraterennar/Projects/Kamp2024Project/Intro/bin/Debug/net8.0/Intro.deps.json
+/Users/muraterennar/Projects/Kamp2024Project/Intro/bin/Debug/net8.0/Intro.runtimeconfig.json
+/Users/muraterennar/Projects/Kamp2024Project/Intro/bin/Debug/net8.0/Intro.dll
+/Users/muraterennar/Projects/Kamp2024Project/Intro/bin/Debug/net8.0/Intro.pdb
+/Users/muraterennar/Projects/Kamp2024Project/Intro/obj/Debug/net8.0/Intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muraterennar/Projects/Kamp2024Project/Intro/obj/Debug/net8.0/Intro.AssemblyInfoInputs.cache
+/Users/muraterennar/Projects/Kamp2024Project/Intro/obj/Debug/net8.0/Intro.AssemblyInfo.cs
+/Users/muraterennar/Projects/Kamp2024Project/Intro/obj/Debug/net8.0/Intro.csproj.CoreCompileInputs.cache
+/Users/muraterennar/Projects/Kamp2024Project/Intro/obj/Debug/net8.0/Intro.dll
+/Users/muraterennar/Projects/Kamp2024Project/Intro/obj/Debug/net8.0/refint/Intro.dll
+/Users/muraterennar/Projects/Kamp2024Project/Intro/obj/Debug/net8.0/Intro.pdb
+/Users/muraterennar/Projects/Kamp2024Project/Intro/obj/Debug/net8.0/Intro.genruntimeconfig.cache
+/Users/muraterennar/Projects/Kamp2024Project/Intro/obj/Debug/net8.0/ref/Intro.dll
